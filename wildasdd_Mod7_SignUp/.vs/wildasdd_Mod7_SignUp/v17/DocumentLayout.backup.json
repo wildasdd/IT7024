@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod7_signup\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7272D598-D914-47B8-AEDD-F41CE139DF6F}|wildasdd_Mod7_SignUp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:59:01.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:58:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\Profile.xaml.cs",
+              "RelativeToolTip": "Profile.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:31:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\SignUp.xaml.cs",
+              "RelativeToolTip": "SignUp.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:25:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:24:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T23:22:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\Profile.xaml",
+              "RelativeDocumentMoniker": "Profile.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\Profile.xaml",
+              "RelativeToolTip": "Profile.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T23:19:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\SignUp.xaml",
+              "RelativeDocumentMoniker": "SignUp.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_Mod7_SignUp\\SignUp.xaml",
+              "RelativeToolTip": "SignUp.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T23:18:30.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
