@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newsdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newsdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newsdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newsdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newshomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newshomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newshomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newshomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\pages\\newslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\pages\\newslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\newsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\newsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|c:\\users\\dwild\\source\\repos\\newsapplication\\newsapplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FA9E5E-0878-420B-B50B-1244B6AE8F01}|NewsApplication\\NewsApplication.csproj|solutionrelative:newsapplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsListPage.xaml.cs",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:50:54.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsListPage.xaml",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsListPage.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsListPage.xaml",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T20:24:43.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsDetailPage.xaml.cs",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsDetailPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:49:08.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Models\\Category.cs",
+              "RelativeToolTip": "NewsApplication\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:42:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsDetailPage.xaml",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsDetailPage.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsDetailPage.xaml",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T20:26:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\App.xaml.cs",
+              "RelativeToolTip": "NewsApplication\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:03:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsHomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsHomePage.xaml.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsHomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsHomePage.xaml.cs",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsHomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:42:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsHomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsHomePage.xaml",
+              "RelativeDocumentMoniker": "NewsApplication\\Pages\\NewsHomePage.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Pages\\NewsHomePage.xaml",
+              "RelativeToolTip": "NewsApplication\\Pages\\NewsHomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T02:00:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\NewsApplication.csproj",
+              "RelativeDocumentMoniker": "NewsApplication\\NewsApplication.csproj",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\NewsApplication.csproj",
+              "RelativeToolTip": "NewsApplication\\NewsApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T03:09:16.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Services\\ApiService.cs",
+              "RelativeToolTip": "NewsApplication\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:27:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Models\\Root.cs",
+              "RelativeDocumentMoniker": "NewsApplication\\Models\\Root.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Models\\Root.cs",
+              "RelativeToolTip": "NewsApplication\\Models\\Root.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:10:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NewsApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NewsApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T22:56:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\App.xaml",
+              "RelativeDocumentMoniker": "NewsApplication\\App.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\NewsApplication\\NewsApplication\\App.xaml",
+              "RelativeToolTip": "NewsApplication\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T02:37:55.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

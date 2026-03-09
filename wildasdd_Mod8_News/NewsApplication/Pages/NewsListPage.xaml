@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewsApplication.Pages.NewsListPage"
+             Title="NewsListPage">
+    <Grid RowDefinitions="Auto,Auto,*">
+        <Label Grid.Row="0"
+           x:Name = "CategoryTitle"
+           Text ="{Binding Name}" 
+           FontSize="Title"
+           FontAttributes="Bold"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           Padding="20"/>
+        <Button Grid.Row="1"
+            Clicked="Home_Clicked" 
+                Text="Home" 
+                BackgroundColor="Black" 
+                TextColor="White" 
+                HorizontalOptions="Center">
+        </Button>
+        <CollectionView Grid.Row="2"
+                Margin="5"
+                x:Name="CategoryNews"
+                SelectedItem="SelectedArticle">
+        <CollectionView.ItemsLayout>
+            <LinearItemsLayout Orientation="Vertical"
+                           ItemSpacing="15" />
+        </CollectionView.ItemsLayout>
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Border Padding="5"
+                    Margin="5">
+                    <VerticalStackLayout Padding="10"
+                                     Spacing="0"
+                                     VerticalOptions="Center">
+                        <Image HeightRequest="200"
+                           Aspect="Fill"
+                           Source="{Binding Image}"/>
+                            <Label FontSize="Medium"
+                           Text="{Binding Title}"/>
+                        </VerticalStackLayout>
+                </Border>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+    </Grid>
+</ContentPage>

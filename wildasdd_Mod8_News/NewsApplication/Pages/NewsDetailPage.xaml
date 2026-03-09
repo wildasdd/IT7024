@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewsApplication.Pages.NewsDetailPage"
+             Title="NewsDetailPage">
+    <Grid RowDefinitions="Auto,Auto,*">
+        <Label Grid.Row="0"
+            Text="News Details"
+            FontSize="Header">
+        </Label>
+        <VerticalStackLayout Grid.Row="1"
+                    Padding="10"
+                    Spacing="0"
+                    VerticalOptions="Center">
+            <Image x:Name="ArticleImage"
+                    HeightRequest="200"
+                    Aspect="Fill" />
+            <Label x:Name="ArticleTitle"
+                    FontSize="Large"
+                    FontAttributes="Bold" />
+            <Label x:Name="ArticleContent"
+                   FontSize="Body">
+            </Label>
+        </VerticalStackLayout>
+        <Button Grid.Row="2" 
+                Clicked="Back_Clicked" 
+            Text="Back" 
+            BackgroundColor="Black" 
+            TextColor="White" 
+            HorizontalOptions="Center">
+        </Button>
+    </Grid>
+</ContentPage>
