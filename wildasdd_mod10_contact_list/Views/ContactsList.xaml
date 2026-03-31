@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="wildasdd_mod10_contact_list.Views.ContactsList"
+             xmlns:vm="clr-namespace:wildasdd_mod10_contact_list.Models.ViewModels"
+             xmlns:models="clr-namespace:wildasdd_mod10_contact_list.Models"
+             x:DataType="vm:ContactsListViewModel"
+             Title="Contacts List">
+    <ListView x:Name="list"  ItemsSource="{Binding Contacts}" ItemTapped="List_ItemTapped" >
+        <ListView.Header>
+            <VerticalStackLayout BackgroundColor="DarkRed" Padding="5">
+                <Label Text="Students" HorizontalOptions="Center" TextColor="AntiqueWhite" FontAttributes="Bold"/>
+            </VerticalStackLayout>
+        </ListView.Header>
+        <ListView.ItemTemplate>
+            <DataTemplate x:DataType="{x:Type models:Contact}">
+                <TextCell Text="{Binding ContactName}" Detail="{Binding ContactPhoneNumber}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

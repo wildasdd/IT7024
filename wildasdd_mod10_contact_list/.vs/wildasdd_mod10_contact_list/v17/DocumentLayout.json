@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\contactslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\contactslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\contactslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\contactslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\contactdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\contactdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\contactdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\contactdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\models\\view models\\contactlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:models\\view models\\contactlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\wildasdd_mod10_contact_list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:wildasdd_mod10_contact_list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\models\\view models\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:models\\view models\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{791CB986-218D-4047-B8F7-12558B0D5E22}|wildasdd_mod10_contact_list.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:18:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactsList.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ContactsList.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactsList.xaml.cs",
+              "RelativeToolTip": "Views\\ContactsList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:57:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ContactDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactDetail.xaml.cs",
+              "RelativeToolTip": "Views\\ContactDetail.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:55:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactDetail.xaml",
+              "RelativeDocumentMoniker": "Views\\ContactDetail.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactDetail.xaml",
+              "RelativeToolTip": "Views\\ContactDetail.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T21:55:38.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsList.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactsList.xaml",
+              "RelativeDocumentMoniker": "Views\\ContactsList.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\ContactsList.xaml",
+              "RelativeToolTip": "Views\\ContactsList.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T21:55:17.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:49:37.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\View Models\\ContactDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\View Models\\ContactDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\View Models\\ContactDetailViewModel.cs",
+              "RelativeToolTip": "Models\\View Models\\ContactDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:41:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\View Models\\ContactListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\View Models\\ContactListViewModel.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Models\\View Models\\ContactListViewModel.cs",
+              "RelativeToolTip": "Models\\View Models\\ContactListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:36:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T21:31:14.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "wildasdd_mod10_contact_list.csproj",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\wildasdd_mod10_contact_list.csproj",
+              "RelativeDocumentMoniker": "wildasdd_mod10_contact_list.csproj",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\wildasdd_mod10_contact_list.csproj",
+              "RelativeToolTip": "wildasdd_mod10_contact_list.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T21:30:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T21:29:41.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:29:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_mod10_contact_list\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:29:21.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

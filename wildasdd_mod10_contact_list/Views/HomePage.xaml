@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="wildasdd_mod10_contact_list.Views.HomePage"
+             xmlns:vm="clr-namespace:wildasdd_mod10_contact_list.Models.ViewModels"
+             x:DataType="vm:ContactListViewModel"
+             Title="Contact Page">
+
+    <VerticalStackLayout Padding="10" Spacing="10">
+        <Entry x:Name="contactName" Placeholder="Student Id" Text="{Binding Contact.ContactName}"/>
+        <Entry x:Name="contactEmail" Placeholder="Student Name" Text="{Binding Contact.ContactEmail}"/>
+        <Entry x:Name="contactPhoneNumber" Placeholder="Student Email" Text="{Binding Contact.ContactPhoneNumber}"/>
+        <Entry x:Name="contactDescription" Placeholder="GPA" Text="{Binding Contacts.ContactDescription}"/>
+        <Button Text="Save" Clicked="Save_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>
