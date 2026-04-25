@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="wildasdd_it7024_final_introspect.HomePage"
+             Title="HomePage">
+    <Grid
+        RowDefinitions="225,60,Auto,Auto,Auto,*"
+        RowSpacing="10"
+        BackgroundColor="CornflowerBlue">
+        <Label 
+            Margin="10"
+            Grid.Row="0"
+            Text="Mindful Introspection"
+            FontSize="40"
+            FontAttributes="Bold"
+            HorizontalTextAlignment="Center"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="White">
+        </Label>
+        <Label
+            Grid.Row="1"
+            FontSize="20"
+            Text="Select a Date:"
+            HorizontalTextAlignment="Center"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="White">
+
+        </Label>
+        <Border
+            Grid.Row="2"
+            StrokeThickness="2"
+            Padding="2"
+            BackgroundColor="DarkBlue">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10"></RoundRectangle>
+            </Border.StrokeShape>
+            <DatePicker
+                x:Name="Date_Picker"
+                DateSelected="Date_Selected"
+                HorizontalOptions="Center"
+                FontSize="35"
+                TextColor="White"
+                MinimumDate="2026-01-01"
+                MaximumDate="2026-12-31"
+                BackgroundColor="DarkBlue">
+            </DatePicker>
+        </Border>
+        <Label
+        Grid.Row="3"
+        FontSize="20"
+        Text="Instrospection Score:"
+        HorizontalTextAlignment="Center"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        TextColor="White">
+        </Label>
+        <Label
+         Grid.Row="4"
+         FontSize="20"
+         x:Name="LblScoreDate"
+         HorizontalTextAlignment="Center"
+         VerticalOptions="Center" 
+         HorizontalOptions="Center"
+         TextColor="White">
+        </Label>
+
+        <Label>
+
+        </Label>
+        <Grid
+            ColumnDefinitions="*"
+            Grid.Row="5"
+            Padding="3"
+            ColumnSpacing="8">
+            <Button
+                Grid.Column="0"
+                Text="Begin Mindful Moment"
+                FontAttributes="Bold"
+                BackgroundColor="DarkBlue"
+                TextColor="White"
+                HeightRequest="75"
+                Clicked="Emotion_Clicked">
+            </Button>
+        </Grid>
+    </Grid>
+</ContentPage>

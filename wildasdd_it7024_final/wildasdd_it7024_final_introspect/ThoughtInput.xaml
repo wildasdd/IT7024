@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="wildasdd_it7024_final_introspect.ThoughtInput"
+             Title="ThoughtInput">
+    <Grid
+    RowDefinitions="160,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,*"
+    BackgroundColor="CornflowerBlue"
+    RowSpacing="10"
+    >
+        <Label
+        Grid.Row="0"
+        Text="Thought Reflection"
+        TextColor="White"
+        FontAttributes="Bold"
+        FontSize="40"
+        HorizontalTextAlignment="Center"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        >
+        </Label>
+        <Label
+        Grid.Row="1"
+        Text="I can usually identify the thought or belief behind a strong emotional reaction I am having."
+        TextColor="White"
+        FontAttributes="Bold"
+        Margin="10"
+        >
+        </Label>
+        <Grid
+        Grid.Row="2"
+        ColumnDefinitions="*,*,*,*,*">
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="0" x:Name="Thought1_StrongD" Content="Strongly Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="1" x:Name="Thought1_SomewhatD" Content="Somewhat Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="2" x:Name="Thought1_Neutral" Content="Neutral"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="3" x:Name="Thought1_SomewhatA" Content="Somewhat Agree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="4" x:Name="Thought1_StrongA" Content="Strongly Agree"/>
+        </Grid>
+        <Label
+        Grid.Row="3"
+        Text="I notice when my behavior does not align with my stated values."
+        TextColor="White"
+        FontAttributes="Bold"
+        Margin="10"
+        >
+        </Label>
+        <Grid
+     Grid.Row="4"
+         ColumnDefinitions="*,*,*,*,*">
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="0" x:Name="Thought2_StrongD" Content="Strongly Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="1" x:Name="Thought2_SomewhatD" Content="Somewhat Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="2" x:Name="Thought2_Neutral" Content="Neutral"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="3" x:Name="Thought2_SomewhatA" Content="Somewhat Agree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="4" x:Name="Thought2_StrongA" Content="Strongly Agree"/>
+        </Grid>
+        <Label
+        Grid.Row="5"
+        Text="I am aware of the stories I tell myself about situations before I have all the facts."
+        TextColor="White"
+        FontAttributes="Bold"
+        Margin="10"
+>
+        </Label>
+        <Grid
+        Grid.Row="6"
+        ColumnDefinitions="*,*,*,*,*">
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="0" x:Name="Thought3_StrongD" Content="Strongly Disagree"/>
+            <RadioButton TextColor="White"  FontSize="10" Grid.Column ="1" x:Name="Thought3_SomewhatD" Content="Somewhat Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="2" x:Name="Thought3_Neutral" Content="Neutral"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="3" x:Name="Thought3_SomewhatA" Content="Somewhat Agree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="4" x:Name="Thought3_StrongA" Content="Strongly Agree"/>
+        </Grid>
+        <Label
+           Grid.Row="7"
+           Text="I can recognize when I am projecting my own feelings or experiences onto someone else."
+           TextColor="White"
+           FontAttributes="Bold"
+           Margin="10"
+       >
+        </Label>
+        <Grid
+        Grid.Row="8"
+        ColumnDefinitions="*,*,*,*,*">
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="0" x:Name="Thought4_StrongD" Content="Strongly Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="1" x:Name="Thought4_SomewhatD" Content="Somewhat Disagree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="2" x:Name="Thought4_Neutral" Content="Neutral"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="3" x:Name="Thought4_SomewhatA" Content="Somewhat Agree"/>
+            <RadioButton TextColor="White" FontSize="10" Grid.Column ="4" x:Name="Thought4_StrongA" Content="Strongly Agree"/>
+        </Grid>
+        <Grid
+        ColumnDefinitions="*,*"
+        Grid.Row="9"
+        Padding="3"
+        ColumnSpacing="8">
+            <Button
+            Grid.Column="0"
+            Text="Back"
+            FontAttributes="Bold"
+            BackgroundColor="DarkBlue"
+            TextColor="White"
+            HeightRequest="75"
+            Clicked="Back_Thought_Clicked">
+            </Button>
+            
+            <Button
+             Grid.Column="1"
+             Text="Submit Score"
+             FontAttributes="Italic"
+             TextColor="White"
+             BackgroundColor="Black"
+             HeightRequest="75"
+             Clicked="Submit_Scores_Clicked">
+            </Button>
+        </Grid>
+    </Grid>
+</ContentPage>

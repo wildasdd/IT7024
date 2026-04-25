@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\thoughtinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\thoughtinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\submission.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\submission.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\emotioninput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\emotioninput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\emotioninput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\emotioninput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\selfinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\selfinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\thoughtinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\thoughtinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\selfinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\selfinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\submission.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\submission.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\platforms\\windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\platforms\\windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|c:\\users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D69B27-17C1-4D4F-9687-FA54A0FFF227}|wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj|solutionrelative:wildasdd_it7024_final_introspect\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Submission.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Submission.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\Submission.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Submission.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\Submission.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:42:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThoughtInput.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\ThoughtInput.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\ThoughtInput.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\ThoughtInput.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\ThoughtInput.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:39:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Submission.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Submission.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\Submission.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Submission.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\Submission.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T13:34:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Date.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\Date.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Date.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:41:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalDBService.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\LocalDBService.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\LocalDBService.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\LocalDBService.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\LocalDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:35:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThoughtInput.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\ThoughtInput.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\ThoughtInput.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\ThoughtInput.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\ThoughtInput.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T12:11:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmotionInput.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\EmotionInput.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\EmotionInput.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\EmotionInput.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\EmotionInput.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:58:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\HomePage.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:25:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\HomePage.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\HomePage.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\HomePage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T13:25:05.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelfInput.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\SelfInput.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\SelfInput.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\SelfInput.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\SelfInput.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:34:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelfInput.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\SelfInput.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\SelfInput.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\SelfInput.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\SelfInput.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T16:59:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:44:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:50:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\MauiProgram.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:53:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\App.xaml.cs",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\App.xaml.cs",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:24:29.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmotionInput.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\EmotionInput.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\EmotionInput.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\EmotionInput.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\EmotionInput.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T15:24:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "wildasdd_it7024_final_introspect.csproj",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\wildasdd_it7024_final_introspect.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T15:23:35.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\App.xaml",
+              "RelativeDocumentMoniker": "wildasdd_it7024_final_introspect\\App.xaml",
+              "ToolTip": "C:\\Users\\dwild\\source\\repos\\wildasdd_it7024_final_4.21.26\\wildasdd_it7024_final_introspect\\App.xaml",
+              "RelativeToolTip": "wildasdd_it7024_final_introspect\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T13:38:05.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
